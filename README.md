@@ -6,7 +6,7 @@
 
 2. Hari's repository link:
 
-[Repository link] https://github.com/harikosaraju9/Data_612_assignments
+[Repository link](https://github.com/harikosaraju9/Data_612_assignments)
 
 # Data_612 week_2 assignment
 
@@ -14,7 +14,7 @@
 
 2. COLAB notebook link:
 
-[Hari's COLAB notebook link] https://colab.research.google.com/drive/1RYu_6Ecaxa4bcLCo-kVMaTbuQgRRoVmV?usp=sharing 
+[Hari's COLAB notebook link](https://colab.research.google.com/drive/1RYu_6Ecaxa4bcLCo-kVMaTbuQgRRoVmV?usp=sharing) 
 
 # Data 612 Week_3 homework
 
@@ -37,5 +37,5 @@
 
 8. Used fillna, interpolate to fill missing values.
 
-  [#Colab link] https://colab.research.google.com/drive/1LY5DOZD0z_DEkekfYWMuDsrPndBueWvH?usp=sharing
+[#Colab link](https://colab.research.google.com/drive/1LY5DOZD0z_DEkekfYWMuDsrPndBueWvH?usp=sharing)
 
