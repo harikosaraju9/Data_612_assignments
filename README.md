@@ -15,3 +15,8 @@
 2. COLAB notebook link:
 
 [Hari's COLAB notebook link] https://colab.research.google.com/drive/1RYu_6Ecaxa4bcLCo-kVMaTbuQgRRoVmV?usp=sharing 
+
+# Data 612 Week_3 homework
+
+[#Colab link] https://colab.research.google.com/drive/1LY5DOZD0z_DEkekfYWMuDsrPndBueWvH?usp=sharing
+
