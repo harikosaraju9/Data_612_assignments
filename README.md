@@ -2,7 +2,7 @@
 
 1.	Open GitHub account and give it’s URL:
 
-[Hari's GitHub repository] https://github.com/harikosaraju9
+* [Hari's GitHub repository](#https://github.com/harikosaraju9)
 
 2. Hari's repository link:
 
