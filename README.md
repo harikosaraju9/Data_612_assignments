@@ -39,3 +39,14 @@
 
 [Week_3 'COLAB' link](https://colab.research.google.com/drive/1LY5DOZD0z_DEkekfYWMuDsrPndBueWvH?usp=sharing)
 
+# Data 612 Week_4 homework
+
+Action Items:
+  • Convert data
+
+1. Work on your selected data set and covert a column of non-categorical type into a categorical type.
+2. Convert another column into a string type.
+3. Post your work on GitHub
+4. Add a README file
+
+[hari's week_4 HW 'COLAB' link](https://colab.research.google.com/drive/1TCLz-PHllgawWuL4bZ5V7dERQyrt0pLP?usp=sharing) 
