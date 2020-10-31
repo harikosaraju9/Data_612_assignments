@@ -68,6 +68,6 @@ Action Items:
     Run the function into your chosen data set using the .apply() method.
     Post your work on GitHub
     
-[Week_5 homework COLAB link:]https://colab.research.google.com/drive/1YoiEC-yp7mQSnPy62RQqaZfhcHJZMGoq?usp=sharing
+[Week_5 COLAB link](https://colab.research.google.com/drive/1YoiEC-yp7mQSnPy62RQqaZfhcHJZMGoq?usp=sharing)
 
     
