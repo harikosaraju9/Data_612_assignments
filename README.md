@@ -63,7 +63,8 @@ Action Items:
 *Another data set will be provided if your data set is not appropriate to apply regular expression methods.
 
 1) Used 'State_Drug_Utilization_Data_2010_Hari.csv' as input file. 
-2) Cleaned 'Product name' column and added it as 'Cleaned_col' to output dataset.
+2) Cleaned 'Product name' column and added it as 'Cleaned_col' to output dataset. Cleaned column using regex commands.
+   a) Product names were starting with numerical values. Cleaned data, so that product name starts with alphabet.
 3) Output dataset is 'State_Drug_Utilization_Data_2010_week_5.csv'. This has cleaned column attached to it.
 
 • Use of .apply()
