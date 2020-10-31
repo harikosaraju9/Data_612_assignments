@@ -50,3 +50,23 @@ Action Items:
 4. Add a README file
 
 [hari's week_4 HW 'COLAB' link](https://colab.research.google.com/drive/1TCLz-PHllgawWuL4bZ5V7dERQyrt0pLP?usp=sharing) 
+
+# Data_612 Week_5 homework
+
+Action Items:
+• Working with strings.
+
+    Clean a column on your data set using regular expression methods.
+
+    Store the cleaned column into another column of your data set and call it “your_col_name_cleaned”.
+
+*Another data set will be provided if your data set is not appropriate to apply regular expression methods.
+
+• Use of .apply()
+
+    Create a function that returns the mean, sum, mode, median, and range (separately)
+    Run the function into your chosen data set using the .apply() method.
+    Post your work on GitHub
+    
+   [Week_5 homework COLAB link:]https://colab.research.google.com/drive/1YoiEC-yp7mQSnPy62RQqaZfhcHJZMGoq?usp=sharing
+    
