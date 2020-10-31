@@ -62,11 +62,18 @@ Action Items:
 
 *Another data set will be provided if your data set is not appropriate to apply regular expression methods.
 
+1) Used 'State_Drug_Utilization_Data_2010_Hari.csv' as input file. 
+2) Cleaned 'Product name' column and added it as 'Cleaned_col' to output dataset.
+3) Output dataset is 'State_Drug_Utilization_Data_2010_week_5.csv'. This has cleaned column attached to it.
+
 • Use of .apply()
 
     Create a function that returns the mean, sum, mode, median, and range (separately)
     Run the function into your chosen data set using the .apply() method.
     Post your work on GitHub
+    
+    1) Input file is cleaned of str type columns. The file name is 'Week_5_data.csv'.
+    2) apply() method is applied on dataframe for aggregate functions.
     
 [Week_5 COLAB link](https://colab.research.google.com/drive/1YoiEC-yp7mQSnPy62RQqaZfhcHJZMGoq?usp=sharing)
 
