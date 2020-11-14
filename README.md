@@ -83,10 +83,11 @@ Action Items:
 
 The function 'get_data_table' takes 4 parameters, df, date_col, group_col, type_x.
 
-The 'df' represents the dataframe.
-The 'date_col' represents the date column.
-The group_col represents the column to groupby and
-The 'type_x' represents the column with a specific value/category == 'type_x'.
+      The 'df' represents the dataframe.
+      The 'date_col' represents the date column.
+      The group_col represents the column to groupby and
+      The 'type_x' represents the column with a specific value/category == 'type_x'.
+
 
 def get_data_table(df, date_col, group_col, type_x):
     df_gross = (df.loc[(df.type == type_x) &
