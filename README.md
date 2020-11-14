@@ -78,4 +78,34 @@ Action Items:
     
 [Week_5 COLAB link](https://colab.research.google.com/drive/1YoiEC-yp7mQSnPy62RQqaZfhcHJZMGoq?usp=sharing)
 
+
+# Data_612 Week_6 homework
+
+The function 'get_data_table' takes 4 parameters, df, date_col, group_col, type_x.
+
+The 'df' represents the dataframe.
+The 'date_col' represents the date column.
+The group_col represents the column to groupby and
+The 'type_x' represents the column with a specific value/category == 'type_x'.
+
+def get_data_table(df, date_col, group_col, type_x):
+    df_gross = (df.loc[(df.type == type_x) &
+                                      df.category.isin(['category_x', 'category_xy', 'category_xyz'])
+                                     ]
+                         .groupby([group_col, date_col]).sum()
+                         .unstack(date_col)['amount'].fillna(0)
+                         .resample('M', axis=1).sum()
+                        )
+
+    df_recovered = (df.loc[(df.type == type_x) &
+                                  df.category.isin(['category_01', 'category_05', 'category_07'])
+                                 ]
+                    .groupby([group_col, date_col]).sum()
+                    .unstack(date_col)['amount'].fillna(0)
+                    .resample('M', axis=1).sum()
+                    )
+
+    return df_gross.add(df_recovered * -1, fill_value=0)
     
+  [Week_6_COLAB_LINK](https://colab.research.google.com/drive/13KaMLAdtAlDoSGR7ntYSLsrN7aUImrx7?usp=sharing)
+  
