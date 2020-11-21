@@ -120,7 +120,7 @@ def get_data_table(df, date_col, group_col, type_x):
     3) Post your work in GitHub
     4) Add a README file
     
-   [Week_7_HW_COLAB_Link].(https://colab.research.google.com/drive/1GyFDeCH3ImN1RVu5NwC7iG2WiF-nY4Y4?usp=sharing)
+   [Week_7_HW_COLAB_Link](https://colab.research.google.com/drive/1GyFDeCH3ImN1RVu5NwC7iG2WiF-nY4Y4?usp=sharing)
   
   
   
