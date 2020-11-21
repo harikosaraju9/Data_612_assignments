@@ -110,3 +110,17 @@ def get_data_table(df, date_col, group_col, type_x):
     
   [Week_6_COLAB_LINK](https://colab.research.google.com/drive/13KaMLAdtAlDoSGR7ntYSLsrN7aUImrx7?usp=sharing)
   
+  
+  # Data_612 Week_7 homework - Vizualizations
+  
+  Create three different charts using Seaborn package.
+
+    1) Create three different meaningful charts using Seaborn package on your selected data set.
+    2) Explain when it is best to use
+    3) Post your work in GitHub
+    4) Add a README file
+    
+   [Week_7_HW_COLAB_Link].(https://colab.research.google.com/drive/1GyFDeCH3ImN1RVu5NwC7iG2WiF-nY4Y4?usp=sharing)
+  
+  
+  
