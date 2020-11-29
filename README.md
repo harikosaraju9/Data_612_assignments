@@ -125,5 +125,12 @@ def get_data_table(df, date_col, group_col, type_x):
    [Week_7_HW_COLAB_Link_2](https://colab.research.google.com/drive/1MQMWLqIpqz6Gx7TXSr5q6y730ac7dCsQ?usp=sharing)
    
   
+   # Data_612 Week_8 homework - Final project preprations
+   
+   1) Open an account on Drivendata.org
+   2) Sign up for competition: Pump it up data mining for Water table
+   
+   [Week_8_HW_COLAB_LINK](https://colab.research.google.com/drive/1PkDE8UpJsiJ9vQebsjlbIsJ7yIpnBT7l?usp=sharing)
+   
   
   
