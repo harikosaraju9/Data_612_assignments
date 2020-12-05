@@ -134,7 +134,7 @@ def get_data_table(df, date_col, group_col, type_x):
    
    # Data_612 Final project - work
     
-   [Final project COLAB LINK](https://colab.research.google.com/drive/14is0uG_dgO1jQACTwmcwevw8fweOjui5?usp=sharing)
+   Submitted internally
     
    
   
